@@ -1,0 +1,10 @@
+menú semana3
+1. desayuno: avena con leche y plátanos
+2. almuerzo: crema de espinacas
+3.           sopa de verduras en jitomate
+4. comida:   platos fuertes
+               -chicharrón en salsa roja con nopales y papas cambray
+               -pescado empapelado con verduras al vapor y arroz al ajo
+
+5. postre: tarta de queso 
+6. agua: agua de mamey
